@@ -42,9 +42,12 @@ Only these columns are used to keep the project simple.
 4. Similar anime are recommended  
 
 ---
+## ▶️ How To Run
+
+### 1. Install Requirements
 pip install -r requirements.txt
 
-### 3. Use
+### 2. Use
 Type an anime name → Click Recommend → Get suggestions 🎯
 
 ---
@@ -62,6 +65,4 @@ To understand:
 ## ❤️ Note
 
 This is a beginner Machine Learning project for learning purposes.
-## ▶️ How To Run
 
-### 1. Install Requirements
